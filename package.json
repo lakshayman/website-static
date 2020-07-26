@@ -16,7 +16,7 @@
     }
   },
   "lint-staged": {
-    "./**/*.{json}": [
+    "./**/*.{md,json}": [
       "npm run format"
     ]
   }
