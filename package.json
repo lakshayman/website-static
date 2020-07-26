@@ -1,0 +1,23 @@
+{
+  "name": "website-static",
+  "version": "1.0.0",
+  "description": "Static data of RDS members",
+  "scripts": {
+    "format": "prettier --write \"./**/*.{md,json}\""
+  },
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
+    "prettier": "^2.0.5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged --allow-empty"
+    }
+  },
+  "lint-staged": {
+    "./**/*.{md,json}": [
+      "npm run format"
+    ]
+  }
+}
