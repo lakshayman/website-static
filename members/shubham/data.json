@@ -1,0 +1,14 @@
+{
+	"id": "shubham",
+	"first_name": "Shubham",
+	"last_name": "Agarwal",
+	"yoe": 3,
+	"company": "CGI",
+	"designation": "Software Engineer",
+	"img": "./img.png",
+	"github_id": "Shubham-1994",
+	"linkedin_id": "subhamagarwal94",
+	"twitter_id": "agarwalsubham94",
+    "instagram_id": "shubham_agarwal_94",
+    "site": "https://subhamagarwal.netlify.app/"
+}
