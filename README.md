@@ -49,7 +49,7 @@ Unique ids provided to the member by Real Dev Squad
 	"site": "<bio-website-here>"
 }
 ```
-**Important:** Github, LinkedIn, Twitter are mandatory
+**Important:** Github, LinkedIn, Twitter are mandatory.
 
 > Note: Default img.png co-located in the folder
 
