@@ -1,0 +1,41 @@
+name: Combine members data 
+on : 
+    push : 
+        branches:
+            - main
+jobs: 
+    job1:
+        name : data copy into dist
+        runs-on : ubuntu-latest
+        steps:
+        - name: install node 
+          run : |
+                  echo "install node"
+                  sudo apt update
+                  sudo apt install nodejs npm
+        - uses: actions/checkout@main
+        - name : Create a new dist folder 
+          run: |
+                    echo "create dist folder"
+                    node remove
+                    echo 'done with folder creation'
+          working-directory: ./scripts
+        - name : Create data into dist folder 
+          run: |
+                    echo "copy data"
+                    node copy
+                    echo 'done with data copy'
+          working-directory: ./scripts
+        - name : Commit files
+          run: |
+                    echo "commiting files"
+                    git config --local user.email "kratika0907@gmail.com"
+                    git config --local user.name "Kratika0907"
+                    git add .
+                    git commit -m "new folder created"    
+        - name : Push changes
+          run: |
+                     echo "pushing changes" 
+                     git push origin main
+              
+

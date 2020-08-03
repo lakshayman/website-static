@@ -42,7 +42,6 @@ Unique ids provided to the member by Real Dev Squad
 	"yoe": 8,
 	"company": "Pesto Tech",
 	"designation": "Instructor",
-	"img": "URL to profile pic",
 	"github_id": "ankushdharkar",
 	"linkedin_id": "ankushdharkar",
 	"twitter_id": "ankushdharkar",
