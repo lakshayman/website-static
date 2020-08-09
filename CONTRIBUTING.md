@@ -44,7 +44,6 @@ For example, if I want to name my branch as **develop**, I'll enter the followin
 git checkout -b develop
 ```
 
----
 
 5. **Just do it!**
 
