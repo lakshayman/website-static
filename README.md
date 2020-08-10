@@ -4,6 +4,10 @@ Serves the static assets and mocked API data for the webapps.
 
 `https://raw.githubusercontent.com/Real-Dev-Squad/website-static/main/[path-to-asset]`
 
+## How do I add my personal details in these repository?
+
+Please visit [here](./CONTRIBUTING.md) for a detailed guide on contributing. The members are shown [here](https://members.realdevsquad.com/).
+
 ## Directory Structure
 
 ```
