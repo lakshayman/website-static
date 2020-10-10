@@ -40,20 +40,21 @@ Unique ids provided to the member by Real Dev Squad
 
 ```json
 {
-	"id": "[member_rds_id]",
-	"first_name": "Ankush",
-	"last_name": "Dharkar",
-	"yoe": 8,
-	"company": "Pesto Tech",
-	"designation": "Instructor",
-	"img": "URL to profile pic",
-	"github_id": "ankushdharkar",
-	"linkedin_id": "ankushdharkar",
-	"twitter_id": "ankushdharkar",
-	"instagram_id": "ankushdharkar",
-	"site": "<bio-website-here>"
+  "id": "[member_rds_id]",
+  "first_name": "Ankush",
+  "last_name": "Dharkar",
+  "yoe": 8,
+  "company": "Pesto Tech",
+  "designation": "Instructor",
+  "img": "URL to profile pic",
+  "github_id": "ankushdharkar",
+  "linkedin_id": "ankushdharkar",
+  "twitter_id": "ankushdharkar",
+  "instagram_id": "ankushdharkar",
+  "site": "<bio-website-here>"
 }
 ```
+
 **Important:** Github, LinkedIn, Twitter are mandatory
 
 > Note: Default img.png co-located in the folder
