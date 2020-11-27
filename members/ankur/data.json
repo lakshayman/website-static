@@ -1,0 +1,13 @@
+{
+  "id": "ankur",
+  "first_name": "Ankur",
+  "last_name": "Narkhede",
+  "yoe": 1,
+  "company": "Postman Inc.",
+  "designation": "Software Engineer",
+  "img": "./img.png",
+  "github_id": "ankurnarkhede",
+  "linkedin_id": "ankurnarkhede",
+  "twitter_id": "ankurnarkhede",
+  "instagram_id": "ankurnarkhede"
+}
