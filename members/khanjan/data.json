@@ -1,13 +1,13 @@
 {
-    "id": "khanjan",
-    "first_name": "Khanjan",
-    "last_name": "Varma",
-    "yoe": 0,
-    "company": "Vishwakarma Institute of Technology",
-    "designation": "student",
-    "img": "./img.png",
-    "github_id": "Khanjan04",
-    "linkedin_id": "khanjan-varma-5b3394183",
-    "twitter_id": "Khanjan54690482",
-    "instagram_id": "imkpv_"
-  }
+  "id": "khanjan",
+  "first_name": "Khanjan",
+  "last_name": "Varma",
+  "yoe": 0,
+  "company": "Vishwakarma Institute of Technology",
+  "designation": "student",
+  "img": "./img.png",
+  "github_id": "Khanjan04",
+  "linkedin_id": "khanjan-varma-5b3394183",
+  "twitter_id": "Khanjan54690482",
+  "instagram_id": "imkpv_"
+}
