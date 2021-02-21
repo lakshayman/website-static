@@ -6,9 +6,9 @@
     "format": "prettier --write \"./**/*.{md,json}\""
   },
   "devDependencies": {
-    "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
-    "prettier": "^2.0.5"
+    "husky": "^5.0.9",
+    "lint-staged": "^10.5.4",
+    "prettier": "^2.2.1"
   },
   "husky": {
     "hooks": {
