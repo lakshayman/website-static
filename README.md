@@ -1,8 +1,8 @@
 # website-static
 
-Serves the static assets and mocked API data for the webapps.
+Temporary serves as our repo to hold static image for the user until we get our image service up ([Track it here](https://github.com/Real-Dev-Squad/website-todo-items/issues/14)).
 
-`https://raw.githubusercontent.com/Real-Dev-Squad/website-static/main/[path-to-asset]`
+The image will be available here: `https://raw.githubusercontent.com/Real-Dev-Squad/website-static/main/[relative-path-to-asset]`
 
 ## How do I add my personal details in these repository?
 
@@ -11,55 +11,12 @@ Please visit [here](./CONTRIBUTING.md) for a detailed guide on contributing. The
 ## Directory Structure
 
 ```
-ids
-|__ mapping.json
-|
 members
-|__ [member_rds_id]
-|   |__ data.json
+|__ [rds-user-id]
 |   |__ img.png
-|
-api
-|__ [api_id].json
 ```
 
-### Data format
-
-#### ids
-
-Unique ids provided to the member by Real Dev Squad
-
-```
-{
-	[member_rds_id]: "<github_id>",
-	...
-}
-```
-
-#### members
-
-```json
-{
-  "id": "[member_rds_id]",
-  "first_name": "Ankush",
-  "last_name": "Dharkar",
-  "yoe": 8,
-  "company": "Pesto Tech",
-  "designation": "Instructor",
-  "img": "URL to profile pic",
-  "github_id": "ankushdharkar",
-  "linkedin_id": "ankushdharkar",
-  "twitter_id": "ankushdharkar",
-  "instagram_id": "ankushdharkar",
-  "site": "<bio-website-here>"
-}
-```
-
-**Important:** Github, LinkedIn, Twitter are mandatory
-
-> Note: Default img.png co-located in the folder
-
-### Rules for `member_rds_id` in Real Dev Squad:
+### Rules for `rds-user-id` in Real Dev Squad:
 
 - Must begin with your first name
 - Must be unique
