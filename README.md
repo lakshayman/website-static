@@ -19,8 +19,7 @@ members
 ### Rules for `rds-user-id` in Real Dev Squad:
 
 - Must begin with your first name
-- Must be unique
-- Must maintain alphabetic order in the `mappings` file
+- Must be **unique**
 - All lowercased letters
 - No special characters, except Hyphens `-`
 - Numbers may be allowed at discretion, but try to avoid

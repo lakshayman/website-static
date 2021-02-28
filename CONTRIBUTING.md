@@ -2,7 +2,7 @@
 
 - Add your personal details in this repository so that it appears on the [members](https://members.realdevsquad.com/) page.
 
-# How do I my personal details?
+# How do I add my profile picture for Members page?
 
 1. **Forking repository**
 
@@ -48,37 +48,12 @@ git checkout -b develop
 
 5. **Just do it!**
 
-Add your RDS ID (you can choose any, if it doesn't exist before) and Github ID in `/ids/mapping.json` file **alphabetically**. Read rules for RDS ID [here](https://github.com/Real-Dev-Squad/website-static#rules-for-member_rds_id-in-real-dev-squad).
+Add your RDS ID (you can choose any, if it doesn't exist before).
 
 Make a new folder using your **RDS ID** in `members` folder.
 
 Add your profile picture in this folder having name `img.png`, following [these](https://github.com/Real-Dev-Squad/website-static#rules-for-profile-picture) rules.
 
-Make a file named `data.json` in the folder using the following details:
-
-```
-{
-	"id": "[member_rds_id]",
-	"first_name": "<first-name>",
-	"last_name": "<last-name>",
-	"yoe": <years-of-experience>,
-	"company": "<company-name>",
-	"designation": "<designation>",
-	"img": "./img.png",
-	"github_id": "<github-id>",
-	"linkedin_id": "<linkedin-id>",
-	"twitter_id": "<twitter-id>",
-	"instagram_id": "<instagram-id>",
-	"site": "<bio-website>"
-}
-```
-
-## Note:
-
-- Add your details without the **<>**.
-- Take care of the **""**.
-- College students should add `"yoe": 0`, `"company": "<college-name>"`, `"designation": "student"`.
-- Github, LinkedIn, Twitter are mandatory
 
 6. **Committing your changes**
 
