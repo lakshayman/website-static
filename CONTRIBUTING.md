@@ -2,7 +2,7 @@
 
 - Add your personal details in this repository so that it appears on the [members](https://members.realdevsquad.com/) page.
 
-# How do I add my profile picture for Members page?
+# Adding my profile picture for Members page
 
 1. **Forking repository**
 

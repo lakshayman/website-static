@@ -28,6 +28,7 @@ members
 ### Rules for Profile picture:
 
 - Images should be a square
+- Image must be a `*.png`
 - Size of the image should be greater than 500px X 500px
 - The face should be visible, centered and identifiable
 - Face should cover at least 60% of the image
