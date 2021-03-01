@@ -1,8 +1,8 @@
-# How can I contribute?
+# How can you contribute?
 
-- Add your personal details in this repository so that it appears on the [members](https://members.realdevsquad.com/) page.
+- Add your personal details in this repository by signing in on our [website](https://www.realdevsquad.com) so that it appears on the [members](https://members.realdevsquad.com/) page.
 
-# Adding my profile picture for Members page
+# Adding your profile picture for Members page
 
 1. **Forking repository**
 
@@ -48,9 +48,7 @@ git checkout -b develop
 
 5. **Just do it!**
 
-Add your RDS ID (you can choose any, if it doesn't exist before).
-
-Make a new folder using your **RDS ID** in `members` folder.
+Make a new folder using your unique **RDS ID** in `members` folder.
 
 Add your profile picture in this folder having name `img.png`, following [these](https://github.com/Real-Dev-Squad/website-static#rules-for-profile-picture) rules.
 
