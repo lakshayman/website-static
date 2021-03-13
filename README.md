@@ -16,19 +16,10 @@ members
 |   |__ img.png
 ```
 
-### Rules for `rds-user-id` in Real Dev Squad:
-
-- Must begin with your first name
-- Must be unique
-- Must maintain alphabetic order in the `mappings` file
-- All lowercased letters
-- No special characters, except Hyphens `-`
-- Numbers may be allowed at discretion, but try to avoid
-- Nothing funky or unprofessional allowed
-
 ### Rules for Profile picture:
 
 - Images should be a square
+- Image must be a `img.png`
 - Size of the image should be greater than 500px X 500px
 - The face should be visible, centered and identifiable
 - Face should cover at least 60% of the image
