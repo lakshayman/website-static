@@ -12,7 +12,7 @@ Please visit [here](./CONTRIBUTING.md) for a detailed guide on contributing. The
 
 ```
 members
-|__ [rds-user-id]
+|__ [username]
 |   |__ img.png
 ```
 
